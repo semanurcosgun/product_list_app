@@ -55,7 +55,6 @@ class _CartDialogState extends State<CartDialog> {
                       subtitle: Text(
                         "${widget._shopBag[index].product.cost * widget._shopBag[index].quantity} TL",
                       ),
-    
                       trailing: Row(
                         mainAxisSize: MainAxisSize.min,
                         children: [

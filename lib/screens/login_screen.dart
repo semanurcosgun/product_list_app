@@ -135,7 +135,8 @@ class _LoginScreenState extends State<LoginScreen> {
                   ),
 
                   onFieldSubmitted: (_) {},
-                ), // CustomTextField
+                ),
+                 // CustomTextField
 
                 const SizedBox(height: 5),
                 Align(
